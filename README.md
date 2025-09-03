@@ -20,7 +20,7 @@
 - 👯 **I’m looking to collaborate on:** 🤝 Projects at the intersection of optics, photonics, holography, and computational physics. I’m also open to collaborations that combine machine learning with physics simulations, as well as educational platforms that make advanced physics concepts accessible through interactive visualizations, animations, and problem-solving tools.
 - 🤔🛠️ **I’m looking for help with:** advancing my projects on digital holography, cloaking simulations, and wavefront reconstruction—particularly in integrating deep learning and computational methods to push the boundaries of what these technologies can achieve. I also seek guidance on building scalable physics education platforms, where I can merge web development, simulations, and visualization tools to support both students and researchers.
 -  💡💬 **Ask me about:** Collaborations or digital holography, wave optics, transformation optics, cloaking physics, deep learning for scientific imaging, and general physics education technologies. I enjoy bridging theory with computation, and I’m always open to discussing how physics concepts can be visualized through simulations, animations, and interactive platforms.
-- 📫 **🌐 Connect With Me** ✉️Email Me 👉**fuseinialhassan197@gmail.com**For Collaboration/Project or Anything Else. 😊😊
+- 📫 **🌐 Let's connect** ✉️Email Me 👉**fuseinialhassan197@gmail.com**For Collaboration/Project or Anything Else. 😊😊
 - 
 - ❤️ **Tags:Heart for Science, Love for Physics:** Exploring nature through research, computation, and creativity.
 
